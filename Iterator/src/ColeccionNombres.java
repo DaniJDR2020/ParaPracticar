@@ -1,0 +1,3 @@
+interface ColeccionNombres {
+    Iterator crearIterator();
+}
